@@ -87,7 +87,7 @@ body {
 
 @font-face {
 	font-family: 'Mineycrafta';
-	src: url("minecraftfont/minecraftfont.otf") format("opentype");
+	src: url("minecraftfont.otf") format("opentype");
 }
 
 

@@ -85,11 +85,11 @@ body {
        url('http://charliecowan.co.uk/mcbuttongenerator/fonts/mcfont.svg#svgFontName') format('svg');
 }
 
+/*This is simply something I made that allowed the font to work, since it wasn't before!*/
 @font-face {
 	font-family: 'Mineycrafta';
 	src: url("minecraftfont.otf") format("opentype");
 }
-
 
 /*This is EVERYTHING that is needed to make the buttons look like they are straight from Minecraft!*/
 .button {
@@ -114,12 +114,12 @@ body {
   font-size: 20px;
 }
 
+/*This css element gives the button some more effects!*/
 .button span {
   position: relative;
   line-height: 40px;
   bottom: 3px;
 }
-
 
 /*This will make the button effects change when hovered over with the mouse cursor!*/
 .button:hover {
@@ -146,3 +146,4 @@ body {
 		width: 100%;
 	}
 }
+/*I;m thinking about thos Beans*/
